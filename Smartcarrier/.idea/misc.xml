@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/admin/AndroidStudioProjects/SmartLocker/app/src/main/res/layout/activity_first.xml" value="0.1296875" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/SmartLocker/app/src/main/res/layout/activity_home.xml" value="0.1375" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/SmartLocker/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/SmartLocker/app/src/main/res/layout/activity_start.xml" value="0.1296875" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/SmartLocker/app/src/main/res/layout/menu.xml" value="0.1296875" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/SmartLocker/app/src/main/res/layout/start.xml" value="0.1" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/SmartLocker/app/src/main/res/layout/strat.xml" value="0.1375" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/sabo__capstone/SmartLocker/app/src/main/res/layout/activity_control.xml" value="0.1375" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/sabo__capstone/SmartLocker/app/src/main/res/layout/activity_finger.xml" value="0.1375" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/sabo__capstone/SmartLocker/app/src/main/res/layout/activity_home.xml" value="0.12335359675785208" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/sabo__capstone/SmartLocker/app/src/main/res/layout/activity_join.xml" value="0.12604166666666666" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/sabo__capstone/SmartLocker/app/src/main/res/layout/activity_login.xml" value="0.12335359675785208" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/sabo__capstone/SmartLocker/app/src/main/res/layout/activity_main.xml" value="0.12604166666666666" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/sabo__capstone/SmartLocker/app/src/main/res/layout/activity_register.xml" value="0.1" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/sabo__capstone/SmartLocker/app/src/main/res/layout/activity_signup.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/sabo__capstone/SmartLocker/app/src/main/res/layout/activity_start.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/sabo__capstone/SmartLocker/app/src/main/res/layout/activity_user.xml" value="0.2" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/samul_capstone/SmartLocker/app/src/main/res/layout/activity_calendaractivity.xml" value="0.1296875" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/samul_capstone/SmartLocker/app/src/main/res/layout/activity_control.xml" value="0.1" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/samul_capstone/SmartLocker/app/src/main/res/layout/activity_home.xml" value="0.1" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/samul_capstone/SmartLocker/app/src/main/res/layout/activity_login.xml" value="0.12604166666666666" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/samul_capstone/SmartLocker/app/src/main/res/layout/activity_register.xml" value="0.1296875" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/samul_capstone/SmartLocker/app/src/main/res/layout/activity_schedule.xml" value="0.1" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/samul_capstone/SmartLocker/app/src/main/res/layout/activity_start.xml" value="0.1296875" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/samul_capstone/SmartLocker/app/src/main/res/layout/activity_user.xml" value="0.1" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/samul_capstone/SmartLocker/app/src/main/res/layout/activity_weight.xml" value="0.264" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/samul_capstone/SmartLocker/app/src/main/res/layout/content_schedule.xml" value="0.1" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/samul_capstone/SmartLocker/app/src/main/res/layout/fragment_month_calendar.xml" value="0.1296875" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/samul_capstone/SmartLocker/app/src/main/res/layout/fragment_month_view.xml" value="0.1296875" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/samul_capstone/SmartLocker/app/src/main/res/layout/item_month.xml" value="0.1296875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

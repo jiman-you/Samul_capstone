@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/black"
+    android:weightSum="10"
+    android:padding="1dp">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:orientation="horizontal"
+        android:padding="1dp"
+        android:background="@color/white">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:textColor="@color/black"
+            android:text="                스마트 캐리어                  "
+            android:textSize="20dp">
+
+        </TextView>
+
+    </LinearLayout>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="8"
+        android:background="@color/white"
+        android:orientation="vertical"
+        android:padding="1dp">
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/startbtn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="시작"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:layout_gravity="center"
+            android:textColor="@color/white"
+            android:background="@color/cardview_dark_background">
+
+        </androidx.appcompat.widget.AppCompatButton>
+    </RelativeLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:background="@color/black"
+        android:orientation="vertical"
+        android:horizontalSpacing="1dp"
+        android:verticalSpacing="1dp">
+
+    </LinearLayout>
+</LinearLayout>

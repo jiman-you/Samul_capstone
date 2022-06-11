@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "228233899758",
+    "project_id": "push-bd106",
+    "storage_bucket": "push-bd106.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:228233899758:android:b56fa61e5339e40225cdff",
+        "android_client_info": {
+          "package_name": "com.hansung.android.smartlocker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "228233899758-i3ith86hq3cvrm1ps82teg1idmpakrjh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrLWkhPjuMBVhHpXnpV9FDOUO1WvN6Thw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "228233899758-i3ith86hq3cvrm1ps82teg1idmpakrjh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
